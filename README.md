@@ -1,9 +1,6 @@
 # primeiro-repositorio
 
 
-Para copiar o código  do HTML:
-...
 <html>
-  <h1> Meu primeiro arquivo html </h1>
-</html>
-...
+        <h1> Meu primeiro arquivo no meu repositório</h1>
+<\html>
